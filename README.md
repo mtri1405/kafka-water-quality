@@ -17,7 +17,7 @@ kafka-demo/
 ├── venv/                 # Môi trường ảo Python
 └── README.md             # Hướng dẫn sử dụng
 
-🚀 Hướng dẫn cài đặt & Kích hoạt
+# 🚀 Hướng dẫn cài đặt & Kích hoạt
 1. Chuẩn bị môi trường (Prerequisites)
 Yêu cầu máy chủ (Ubuntu VM) đã cài đặt:
 
